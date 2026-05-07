@@ -43,7 +43,7 @@ python hand_tracking.py
 ### 4. Keluar program
 Tekan **Q** atau **ESC** pada jendela kamera.
 
-## 📁 Struktur File
+##  Struktur File
 ```
 hand-tracking/
 ├── hand_tracking.py   # Program utama

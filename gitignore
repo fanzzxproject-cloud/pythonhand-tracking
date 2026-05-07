@@ -1,0 +1,17 @@
+# Model MediaPipe (auto download)
+hand_landmarker.task
+
+# File audio temp
+*.mp3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+venv/

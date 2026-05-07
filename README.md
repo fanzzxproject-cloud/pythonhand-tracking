@@ -2,13 +2,13 @@
 
 Program hand tracking berbasis Python yang mendeteksi jumlah jari dan menampilkan teks serta suara Google bahasa Indonesia.
 
-## 📋 Fitur
+##  Fitur
 - Deteksi 1-5 jari secara real-time
 - Suara Google Text-to-Speech bahasa Indonesia (wanita)
 - Tampilan teks di layar
 - Debug panel status tiap jari
 
-## 🗣️ Pesan per Jari
+##  Pesan per Jari
 | Jari | Teks |
 |------|------|
 |  1 | Halo perkenalkan |

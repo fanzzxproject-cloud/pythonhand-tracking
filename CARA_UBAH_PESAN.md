@@ -1,6 +1,6 @@
-# ✏️ Cara Ubah Pesan & Suara Google
+#  Cara Ubah Pesan & Suara Google
 
-## 📝 Cara Ubah Teks Pesan
+##  Cara Ubah Teks Pesan
 
 Buka file `hand_tracking.py`, cari bagian ini di paling atas:
 
@@ -42,7 +42,7 @@ Setelah diubah, **simpan file** lalu jalankan ulang program.
 
 ---
 
-## 🔊 Cara Ubah Suara Google
+##  Cara Ubah Suara Google
 
 Suara Google diatur di fungsi `pregenerate_audio()`.
 Cari baris ini:
@@ -77,12 +77,12 @@ tts = gTTS(text=teks, lang="su", slow=False)
 
 ---
 
-## ⚠️ Penting
+##  Penting
 - Perubahan pesan & suara butuh **koneksi internet** saat pertama kali run
   karena suara di-generate ulang oleh Google
 - Setelah diubah, jalankan ulang program agar perubahan aktif
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 **Fanzzx**

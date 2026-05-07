@@ -1,4 +1,4 @@
-# 🖐️ Hand Tracking - Fanzzx
+# Hand Tracking - Fanzzx
 
 Program hand tracking berbasis Python yang mendeteksi jumlah jari dan menampilkan teks serta suara Google bahasa Indonesia.
 
@@ -11,18 +11,18 @@ Program hand tracking berbasis Python yang mendeteksi jumlah jari dan menampilka
 ## 🗣️ Pesan per Jari
 | Jari | Teks |
 |------|------|
-| ☝️ 1 | Halo perkenalkan |
-| ✌️ 2 | Nama saya |
-| 🤟 3 | Fanzzx saya |
-| 🖖 4 | Adalah pengembang |
-| 🖐️ 5 | Program ini |
+|  1 | Halo perkenalkan |
+|  2 | Nama saya |
+|  3 | Fanzzx saya |
+|  4 | Adalah pengembang |
+|  5 | Program ini |
 
-## 💻 Kebutuhan
+##  Kebutuhan
 - Python 3.8 - 3.13 (disarankan 3.11)
 - Webcam
 - Koneksi internet (untuk generate suara pertama kali)
 
-## 🚀 Cara Install & Jalankan
+##  Cara Install & Jalankan
 
 ### 1. Clone repository
 ```bash
@@ -52,5 +52,5 @@ hand-tracking/
 └── README.md          # Dokumentasi
 ```
 
-## 👨‍💻 Developer
+##  Developer
 **Fanzzx**
